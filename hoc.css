@@ -1,0 +1,297 @@
+.head {
+    font-family: Verdana, sans-serif;
+}
+
+.BDI h1 {
+    font-size: 50px;
+    color: rebeccapurple;
+    margin-left: 114px;
+}
+
+.bdi {
+    display: flex;
+    align-items: center;
+    margin-top: -34px;
+}
+
+#search {
+    margin-left: 194px;
+    height: 33px;
+    width: 254px;
+}
+
+.BDI2 {
+    display: flex;
+}
+
+
+.BDI1 h3 {
+    color: rebeccapurple;
+    margin-top: 21px;
+    height: 0px;
+}
+
+.BDI1 h2 {
+    color: rebeccapurple;
+}
+
+.trangchu p {
+    background-color: rebeccapurple;
+    height: 42px;
+    color: white;
+    display: flex;
+    align-items: center;
+    /* border-spacing: inherit; */
+    /* letter-spacing: -1px; */
+    margin-top: -35px;
+    margin-left: -8px;
+}
+
+.trangchu a {
+    margin-right: 39px;
+    color: white;
+}
+
+.chuyendoi {
+    background: url(https://tse3.mm.bing.net/th?id=OIP.ZZdRx_e5b7aEfQN5fvoqQwHaE8&pid=Api&P=0);
+    height: 284px;
+    margin-top: -20px;
+    margin-left: -8px;
+}
+
+.chuyendoi h2 {
+    color: white;
+    margin-bottom: -3%;
+}
+
+.chuyendoi h3 {
+    color: white;
+    margin-top: 6%;
+}
+
+.chuyendoi1 {
+    margin-left: 140px;
+}
+
+#head3{
+    text-align: center;
+}
+
+.bochi {
+    color: slateblue;
+}
+
+#indam {
+    color: rgb(40, 91, 231);
+}
+
+#bo {
+    display: inline-block;
+    align-content: center;
+    text-align: center;
+    margin-right: 67px;
+}
+
+
+.head4 {
+    text-align: center; 
+}
+
+.indam1 {
+    color: rgb(150, 105, 192);
+}
+
+#bo input {
+    color: white;
+    background-color: rebeccapurple;
+    height: 33px;
+}
+
+.trucot h2 {
+    color: slateblue;
+}
+
+.head5 {
+    display: flex;
+    place-content: center;
+    margin-top: 62px;
+}
+
+.anh img {
+    margin-right: 156px;
+}
+
+.trucot ol {
+ line-height: 42px;  
+}
+
+#head6 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-image: url(https://tse4.mm.bing.net/th?id=OIP.60P2QYCZSLKXoI0SxVbH_AHaEK&pid=Api&P=0);
+}
+
+.quydoanh {
+    color: white;
+}
+
+.danhgia {
+    color: slateblue;
+    border-radius: 25px;
+    background: #c1b8d7;
+    padding: 20px; 
+    font-weight: bold;
+}
+
+#dichvu2 {
+    width: 412px;
+    margin-left: 31px;
+    border: 20px;
+    padding: 16px;
+    border-color:beige;
+
+
+}
+
+.dichvu1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 32px;
+}
+
+.dichvu{
+    color: rebeccapurple;
+    size: 66px;
+    font-size: 36px;
+    text-align: center;
+    margin-top: 27px;
+    font-weight: bold;
+}
+
+#dichvu2 h3 {
+    color: rebeccapurple;
+}
+
+.dichvu4 h2 {
+    color: rebeccapurple;
+    size: 66px;
+    font-size: 36px;
+    text-align: center;
+    margin-top: 27px;
+    font-weight: bold;
+}
+
+.nentang h3 {
+    color: rebeccapurple;
+}
+
+.nentang1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 413px;
+}
+
+.nentang {
+    width: 369px;
+    margin-left: 298px;
+    background-color: white;
+    height: 258px;
+    padding: 40px;
+}
+
+.head9 {
+    background-image: linear-gradient(#b38bb3, white);
+}
+
+.anh1 img  {
+    margin-left: 56px;
+    margin-right: -189px;
+}
+
+.chuyengia1 {
+    color: rebeccapurple;
+    size: 66px;
+    font-size: 36px;
+    text-align: center;
+    margin-top: 27px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+#chuyengia2 {
+    text-align-last: center;
+}
+
+#ten {
+    color: rebeccapurple;
+}
+
+.chuyengia3 {
+    display: flex;
+    justify-content: center;
+}
+
+#chuyengia2 p {
+    text-align: -webkit-center;
+    font-size: 13px;
+    width: 347px;
+}
+
+.head11 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.download {
+    color: white;
+}
+
+.dangki {
+    display: flex;
+    align-items: center;
+    background: url(https://tse2.mm.bing.net/th?id=OIP.g6nQlb_qSra-PSfe8-qVzQHaFj&pid=Api&P=0);
+    width: 554px;
+    /* margin-right: 94px; */
+    margin-left: -5px;
+    height: 68px;
+}
+
+.dangki1 {
+    display: flex;
+    align-items: center;
+    background: url(https://tse2.mm.bing.net/th?id=OIP.g6nQlb_qSra-PSfe8-qVzQHaFj&pid=Api&P=0);
+    width: 301px;
+    margin-left: 27px;
+    justify-content: space-around;
+}
+
+.button  {
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: yellow;
+    height: 59%;
+    padding: -1%;
+    width: 115%;
+    padding: revert;
+    font-size: 124%;
+}
+
+.dangki a {
+    color: white;
+}
+
+.head12 {
+    background-color: #1e1556;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 164px;
+    line-height: 0%;
+    margin-top: 20px;
+}
